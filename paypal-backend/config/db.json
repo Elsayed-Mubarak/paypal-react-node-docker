@@ -1,0 +1,4 @@
+{
+    "secret": "sayed-isec",
+    "database":"mongodb+srv://sayed:PE8iFStCHhB6umMZ@cluster0.vuajc.mongodb.net/isec-paypal?retryWrites=true&w=majority"
+}

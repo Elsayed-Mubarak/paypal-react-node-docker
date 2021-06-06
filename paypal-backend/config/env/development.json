@@ -1,0 +1,14 @@
+{
+    "dbURI": "mongodb://localhost:27017/ihawk",
+    "host": "http://localhost:5000",
+    "ticketValidationInDays": 30,
+      "banDurationInHours": 1,
+      "freeRetriesOnStrictRoutes": 100,
+      "timeBetweenPasswordResetsInHours": 2,
+      "maxLogins": 5,
+      "maxTicketUsagePerHour": 1200,
+      "foreignIpBlockInDays": 365,
+      "scanBlockInDays": 15,
+      "tempTokenDurationInHours": 1,
+      "timeZone": "Africa/Cairo"
+  }

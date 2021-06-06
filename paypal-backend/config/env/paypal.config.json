@@ -1,0 +1,6 @@
+{
+    "mode": "sandbox",
+    "client_id": "ASD8ZHJ3216oXRlDzy4AygBBL8d-_CBtAtodjUBwn3UGMol90IvBxtluoupQTdYLetvXapVK6U2t7Pfg",
+    "client_secret": "EHEpTC8lts8bucQOwHpx0lvjYLne5g2LTa4x5O_j_ThJb06ZQAL9tUBi0DSBL50wbFJzpBzPy0lpk1I2",
+    "PAYPAL_API": "https://api.sandbox.paypal.com"
+}

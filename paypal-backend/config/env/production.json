@@ -1,0 +1,24 @@
+{
+	"dbURI": "mongodb+srv://wargames:RrDySqMSTq6DzNGK@cluster0.ie589.gcp.mongodb.net/ihawk?retryWrites=true&w=majority",
+  "host": "http://localhost:3000",
+	"ticketValidationInDays": 365,
+	"banDurationInHours": 9,
+	"freeRetriesOnStrictRoutes": 5,
+	"timeBetweenPasswordResetsInHours": 1,
+	"maxLogins": 6,
+	"maxTicketUsagePerHour": 6000,
+	"foreignIpBlockInDays": 365,
+	"scanBlockInDays": 15,
+	"tempTokenDurationInHours": 1,
+	"timeZone": "Africa/Cairo",
+	"mailingServer": {
+		"host": "",
+		"port": "",
+		"secure": "",
+		"auth": {
+			"user": "",
+			"pass": ""
+		}
+	},
+	"emailVerificationUrl": "/verify/email"
+}
